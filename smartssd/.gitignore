@@ -1,0 +1,5 @@
+.Xil
+_x*
+*.log
+build*
+.ipcache
